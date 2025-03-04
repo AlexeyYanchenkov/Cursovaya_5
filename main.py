@@ -1,5 +1,5 @@
 from src.config import config
-from src.dbmanager import DBManager
+from src.DBmanager import DBManager
 from utils import get_hh_ru_data, create_database, save_data_to_database_emp, save_data_to_database_vac
 
 
